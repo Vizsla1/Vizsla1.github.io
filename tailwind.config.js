@@ -13,9 +13,11 @@ module.exports = {
     extend: {
       colors: {
         'csumb': '#112E51',
-        'dark-mode':'#03001C',
+        'dark-mode':'#121212',
+        'dark-Mode':'#03001C',
         'trial': '#A9CEF4',
         'cool-white': '#EFF1F3',
+        'custom': '#1F7A8C',
       }
     }, //Add custom colors and fonts
   },
