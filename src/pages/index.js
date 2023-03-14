@@ -52,77 +52,71 @@ export default function Index() {
         <a href='https://www.linkedin.com/feed/'><AiFillLinkedin className='relative left-5'/></a>
         <a href='https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzCVMtGBtZmJgFHHnqdhqpvKlsNCBxWRcDGrBHJfGvJjjmXKtKrrLWkzlFBWBDKqCWFl'><AiOutlineMail className='relative left-8'/></a>
 
-<div class="relative justify-center items-center">
- </div>
-</div>
-</section>
+          <div class="relative justify-center items-center">
+          </div>
+        </div>
+      </section>
         
-        <section>
-
+      <section>
 {/* ---Experience--- */}
-<div className="relative justify-center flex items-center ">
-  <h1 className='relative text-cool-white dark:bg-dark-mode cursor-default dark:hover:text-cool-white items-center text-center border-2 hover:border-2 text-2xl m-16 bg-csumb w-40 dark:hover:bg-csumb border-csumb rounded-md p-1 hover:bg-cool-white group-hover:text-white duration-500 hover:text-csumb hover:border-csumb'>Experience</h1>
-</div>
+        <div className="relative justify-center flex items-center ">
+          <h1 className='relative text-cool-white dark:bg-dark-mode cursor-default dark:hover:text-cool-white items-center text-center border-2 hover:border-2 text-2xl m-16 bg-csumb w-40 dark:hover:bg-csumb border-csumb rounded-md p-1 hover:bg-cool-white group-hover:text-white duration-500 hover:text-csumb hover:border-csumb'>Experience</h1>
+        </div>
 
-<div className='relative justify-center cursor-default flex p-1 hover: cool-white' >
-<div className='group relative top-15 justify-center flex p-1 hover: text-cool-white group-hover:text-cool-white' >
-<a href="#" className=" hover:bg-white dark:hover:bg-csumb max-w-sm dark:bg-dark-mode p-5 m-5 border-4  bg-cool-white border-csumb rounded-lg duration-500">
-    <h5 class= "text-cool-white group-hover:text-csumb dark:text-cool-white dark:group-hover:text-cool-white text-center mb-2 text-2xl font-bold tracking-tight text-csumb ">Tools</h5>
-    <p class="text-cool-white group-hover:text-csumb dark:text-cool-white dark:group-hover:text-cool-white duration-1000	text-center font-medium text-csumb">HTML, CSS, React, javascript, Tailwind, Figma, NodeJS and Java</p>
-</a>
-</div>
-<div className='group relative top-15 cursor-defaultjustify-center flex p-1 hover: text-cool-white' >
-<a href="#" className="  hover:bg-white dark:hover:bg-csumb max-w-sm dark:bg-dark-mode p-5 m-5 border-4  bg-cool-white border-csumb rounded-lg duration-500">
-    <h5 class="text-cool-white group-hover:text-csumb dark:text-white duration-700 dark:group-hover:text-cool-white	text-center mb-2 text-2xl font-bold tracking-tight text-csumb ">Freshman</h5>
-    <p class="text-cool-white group-hover:text-csumb dark:text-white duration-1000 dark:group-hover:text-cool-white	text-center font-medium text-csumb">Current Freshman at CSUMB. I graduate in May 2026</p>
-</a>
-</div>
-<div className='group relative top-15 cursor-default justify-center flex p-1 hover: text-cool-white group-hover:text-cool-white' >
-<a href="#" className=" hover:bg-white dark:hover:bg-csumb max-w-sm dark:bg-dark-mode p-5 m-5 border-4  bg-cool-white border-csumb rounded-lg duration-500">
-    <h5 class="text-cool-white group-hover:text-csumb dark:text-white duration-700 dark:group-hover:text-cool-white	text-center mb-2 text-2xl font-bold tracking-tight text-csumb ">1 Project</h5>
-    <p class="text-cool-white group-hover:text-csumb dark:text-white duration-1000 dark:group-hover:text-cool-white	text-center font-medium text-csumb">I coded my personal portfolio website using react and tailwind. </p>
-</a>
-</div>
-</div>
+        <div className='relative justify-center cursor-default flex p-1 ' >
+          <div className='group relative top-15 justify-center flex p-1 hover: text-cool-white group-hover:text-cool-white' >
+            <a href="#" className=" hover:bg-white dark:hover:bg-csumb max-w-sm dark:bg-dark-mode p-5 m-5 border-4  bg-csumb border-csumb rounded-lg duration-500">
+            <h5 class= "text-cool-white group-hover:text-csumb dark:text-cool-white dark:group-hover:text-cool-white text-center mb-2 text-2xl font-bold tracking-tight text-white ">Tools</h5>
+            <p class="text-cool-white group-hover:text-csumb dark:text-cool-white dark:group-hover:text-cool-white duration-1000	text-center font-medium text-white">HTML, CSS, React, javascript, Tailwind, Figma, NodeJS and Java</p>
+            </a>
+        </div>
+      <div className='group relative top-15 cursor-defaultjustify-center flex p-1 hover: text-cool-white' >
+        <a href="#" className="  hover:bg-white dark:hover:bg-csumb max-w-sm dark:bg-dark-mode p-5 m-5 border-4  bg-csumb border-csumb rounded-lg duration-500">
+        <h5 class="text-cool-white group-hover:text-csumb dark:text-white duration-700 dark:group-hover:text-cool-white	text-center mb-2 text-2xl font-bold tracking-tight text-white ">Freshman</h5>
+        <p class="text-cool-white group-hover:text-csumb dark:text-white duration-1000 dark:group-hover:text-cool-white	text-center font-medium text-white">Current Freshman at CSUMB. I graduate in May 2026</p>
+        </a>
+      </div>
+      <div className='group relative top-15 cursor-default justify-center flex p-1 hover: text-cool-white group-hover:text-cool-white' >
+        <a href="#" className=" hover:bg-white dark:hover:bg-csumb max-w-sm dark:bg-dark-mode p-5 m-5 border-4  bg-csumb border-csumb rounded-lg duration-500">
+        <h5 class="text-cool-white group-hover:text-csumb dark:text-white duration-700 dark:group-hover:text-cool-white	text-center mb-2 text-2xl font-bold tracking-tight text-white ">1 Project</h5>
+        <p class="text-cool-white group-hover:text-csumb dark:text-white duration-1000 dark:group-hover:text-cool-white	text-center font-medium text-white">I coded my personal portfolio website using react and tailwind. </p>
+        </a>
+      </div>
+    </div>
 {/* ---End of Experience--- */}
 
-
-
-
 {/* ---Projects--- */}
-<div className='grid relative px-5 grid-cols-1 top-15 hover: text-cool-white' >
-<div className="relative justify-center flex items-center ">
-  <h1 className='relative text-white top-5 items-center cursor-default text-center border-2 hover:border-2 text-2xl m-16 bg-csumb w-40 border-csumb rounded-md p-1 hover:bg-white duration-500 dark:hover:bg-csumb dark:bg-dark-mode dark:hover:text-cool-white hover:text-csumb hover:border-csumb'>Projects</h1>
-</div>
-<div className="relative grid justify-center ">
-<a href="#" className="group relative dark:bg-csumb p-10 pr-20 m-7 border-4 bg-csumb border-csumb rounded-lg duration-500 bg-cool-white border-csumb hover:bg-cool-white  ">
-<h1 className='bg-cool-white text-csumb group-hover:text-white group-hover:bg-csumb  group-hover:text-cool-white group-hover:bg-csumb absolute w-16 text-3xl text-center rounded  p-3 duration-700'>1</h1>
-{/* <h1 className='relative text-csumb  place-self-end'>Developed in 2023</h1> */}
-  <h5 class="text-cool-white  dark:text-white dark:text-white duration-1000 dark:group-hover:text-cool-white relative left-20 duration-700	text-start mb-2 text-2xl font-bold group-hover:text-csumb tracking-tight text-csumb ">Project 1</h5>
-  <p class=" text-cool-white dark:text-white dark:text-white duration-1000 dark:group-hover:text-cool-white relative left-20 duration-1000	text-start font-medium text-csumb group-hover:text-csumb">Filler for future projects I will work on</p>
-</a>
+    <div className='grid relative px-5 grid-cols-1 top-15 hover: text-cool-white' >
+      <div className="relative justify-center flex items-center ">
+        <h1 className='relative text-white top-5 items-center cursor-default text-center border-2 hover:border-2 text-2xl m-16 bg-csumb w-40 border-csumb rounded-md p-1 hover:bg-white duration-500 dark:hover:bg-csumb dark:bg-dark-mode dark:hover:text-cool-white hover:text-csumb hover:border-csumb'>Projects</h1>
+      </div>
+      <div className="relative grid justify-center ">
+        <a href="#" className="group relative dark:bg-dark-mode p-10 pr-20 m-7 border-4 bg-csumb border-csumb rounded-lg duration-500 bg-cool-white border-csumb hover:bg-cool-white  ">
+          <h1 className='bg-cool-white text-csumb group-hover:text-white group-hover:bg-csumb  group-hover:text-cool-white group-hover:bg-csumb absolute w-16 text-3xl text-center rounded  p-3 duration-700'>1</h1>
+          {/* <h1 className='relative text-csumb  place-self-end'>Developed in 2023</h1> */}
+          <h5 class="text-cool-white  dark:text-white dark:text-white duration-1000 dark:group-hover:text-cool-white relative left-20 duration-700	text-start mb-2 text-2xl font-bold group-hover:text-csumb tracking-tight text-white ">Project 1</h5>
+          <p class=" text-cool-white dark:text-white dark:text-white duration-1000 dark:group-hover:text-cool-white relative left-20 duration-1000	text-start font-medium text-white group-hover:text-csumb">Filler for future projects I will work on</p>
+        </a>
 
-<a href="#" className="group relative dark:bg-csumb p-10 pr-24 m-7 border-4 bg-csumb border-csumb rounded-lg duration-500 bg-cool-white border-csumb hover:bg-cool-white ">
-<h1 className='bg-cool-white text-csumb group-hover:text-white group-hover:bg-csumb  group-hover:text-cool-white group-hover:bg-csumb absolute w-16 text-3xl text-center rounded  p-3 duration-700'>2</h1>
-{/* <h1 className='absolute text-csumb justify-end'>Developed in 2023</h1> */}
-  <h5 class="text-cool-white  dark:text-white relative dark:text-white duration-1000 dark:group-hover:text-cool-white left-20 duration-700	text-start mb-2 text-2xl font-bold group-hover:text-csumb tracking-tight text-csumb ">Project 2</h5>
-  <p class="text-cool-white dark:text-white relative dark:text-white duration-1000 dark:group-hover:text-cool-white left-20 duration-1000	text-start font-medium text-csumb group-hover:text-csumb">Filler for future projects I will work on</p>
-</a>
+        <a href="#" className="group relative dark:bg-dark-mode p-10 pr-24 m-7 border-4 bg-csumb border-csumb rounded-lg duration-500 bg-cool-white border-csumb hover:bg-cool-white ">
+          <h1 className='bg-cool-white text-csumb group-hover:text-white group-hover:bg-csumb  group-hover:text-cool-white group-hover:bg-csumb absolute w-16 text-3xl text-center rounded  p-3 duration-700'>2</h1>
+          {/* <h1 className='absolute text-csumb justify-end'>Developed in 2023</h1> */}
+          <h5 class="text-cool-white  dark:text-white relative dark:text-white duration-1000 dark:group-hover:text-cool-white left-20 duration-700	text-start mb-2 text-2xl font-bold group-hover:text-csumb tracking-tight text-white ">Project 2</h5>
+          <p class="text-cool-white dark:text-white relative dark:text-white duration-1000 dark:group-hover:text-cool-white left-20 duration-1000	text-start font-medium text-white group-hover:text-csumb">Filler for future projects I will work on</p>
+        </a>
 
-<a href="#" className="group relative dark:bg-csumb dark:text-white duration-1000 dark:group-hover:text-cool-white p-10 pr-20 m-7 border-4 bg-csumb border-csumb rounded-lg duration-500 bg-cool-white border-csumb hover:bg-cool-white ">
-<h1 className='bg-cool-white text-csumb group-hover:text-white group-hover:bg-csumb dark:bg-cool-white duration-1000 dark:group-hover:text-cool-white  group-hover:text-cool-white group-hover:bg-csumb absolute w-16 text-3xl text-center rounded p-3 duration-700'>3</h1>
-{/* <h1 className='absolute text-csumb justify-end'>Developed in 2023</h1> */}
-  <h5 class="text-cool-white  dark:text-white relative dark:text-white duration-1000 dark:group-hover:text-cool-white left-20 duration-700	text-start mb-2 text-2xl font-bold group-hover:text-csumb tracking-tight text-csumb ">Project 3</h5>
-  <p class="text-cool-white dark:text-white relative dark:text-white duration-1000 dark:group-hover:text-cool-white left-20 duration-1000	text-start font-medium text-csumb group-hover:text-csumb">Filler for future projects I will work on</p>
-</a>
+        <a href="#" className="group relative dark:bg-dark-mode dark:text-white duration-1000 dark:group-hover:text-cool-white p-10 pr-20 m-7 border-4 bg-csumb border-csumb rounded-lg duration-500 bg-cool-white border-csumb hover:bg-cool-white ">
+          <h1 className='bg-cool-white text-csumb group-hover:text-white group-hover:bg-csumb dark:bg-cool-white duration-1000 dark:group-hover:text-cool-white  group-hover:text-cool-white group-hover:bg-csumb absolute w-16 text-3xl text-center rounded p-3 duration-700'>3</h1>
+          {/* <h1 className='absolute text-csumb justify-end'>Developed in 2023</h1> */}
+          <h5 class="text-cool-white  dark:text-white relative dark:text-white duration-1000 dark:group-hover:text-cool-white left-20 duration-700	text-start mb-2 text-2xl font-bold group-hover:text-csumb tracking-tight text-white ">Project 3</h5>
+          <p class="text-cool-white dark:text-white relative dark:text-white duration-1000 dark:group-hover:text-cool-white left-20 duration-1000	text-start font-medium text-white group-hover:text-csumb">Filler for future projects I will work on</p>
+        </a>
 
-</div>
-</div>
-{/* ---End of Projects --- */}
-
-
-</section>
-</main>
+      </div>
+    </div>
+        {/* ---End of Projects --- */}
+    </section>
+  </main>
 </div>
   )
 }
